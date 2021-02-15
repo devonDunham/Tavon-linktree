@@ -1,0 +1,28 @@
+body{
+	background:#000;
+	font-family: arial;
+}
+h1{
+	color: white;
+}
+a{
+	color:blue;
+}
+ul, ol{
+	background: #333;
+	color:white;
+	padding-top:7px;
+	padding-bottom: 7px;
+}
+.secondlist{
+	background:#222;
+}
+img{
+	background: #000;
+}
+p{
+	color: white;
+}
+.madeby{
+	color: #666;
+}
